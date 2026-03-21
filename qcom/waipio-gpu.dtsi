@@ -192,7 +192,6 @@
 
 				qcom,acd-level = <0x882f5ffd>;
 			};
-		};
 
 			qcom,gpu-pwrlevel@10 {
 				reg = <10>;
